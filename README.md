@@ -1,5 +1,5 @@
 # Classifying-Iris-Flower-Species-with-Decision-Trees-
-project focused on using decision trees to classify the famous Iris dataset. The Iris dataset consists of measurements from three different species of Iris flowers: Setosa, Versicolor, and Virginica
+This project focused on using decision trees to classify the famous Iris dataset. The Iris dataset consists of measurements from three different species of Iris flowers: Setosa, Versicolor, and Virginica
 For each flower, four features are provided: sepal length, sepal width, petal length, and petal width. The goal of this project is to build a decision tree-based classification model that can accurately identify the Iris species based on these features.
 
 **Key Objectives:**
